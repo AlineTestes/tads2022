@@ -11,6 +11,7 @@ class Exemplo extends React.Component {
         return (
             <div>
                 <h1>Esta é uma pagina de criação Exemplo!! </h1>
+                <p>isso é um teste</p>
                 <div>
                     {/* Sempre deixe este link em algum lugar da sua página para servir 
                     de rota para voltar a página com todos os Colaboradores do projeto. */}

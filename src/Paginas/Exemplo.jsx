@@ -1,5 +1,6 @@
 //Use esta estrutura como exemplo de como estruturar sua página
 //Navegue tbm pelas páginas Home e PaginaColaboradores para ver outros exemplos
+import '../css/exemplo.css';
 
 import React from 'react';
 import { Link } from 'react-router-dom';
